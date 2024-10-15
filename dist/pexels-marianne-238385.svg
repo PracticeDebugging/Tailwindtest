@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1548" height="665" viewBox="0 0 1548 665">
+  <defs>
+    <pattern id="pattern" width="1" height="1" viewBox="166.703 152.747 1381.297 593.387">
+      <image preserveAspectRatio="xMidYMid slice" width="1548" height="898.881" xlink:href="pexels-marianne-238385-image.jpg"/>
+    </pattern>
+  </defs>
+  <rect id="pexels-marianne-238385" width="1548" height="665" rx="4" fill="url(#pattern)"/>
+</svg>
